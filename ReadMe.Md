@@ -27,4 +27,14 @@ Goroutines
         sync package
     GOroutine
         main go routine
-    sync wait group    
+    sync wait group
+    Closures
+        moves local variable of a function to heap from Stack, if used in diff go routine.  
+        GO routine works on current value of variable, if we want to use specific vlue then pass as an argument to go routine function.
+        eg : for loop variable.
+    Go scheduler
+        part of go runtimme
+            M:N scheduler
+            run in user space
+            
+
