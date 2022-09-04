@@ -37,5 +37,8 @@ Goroutines
             M:N scheduler
             run in user space
         Work Stealing
-        
+        Channel
+            Normal chanel (Unbuffer channel)
+            Buffer Channel
+            range over the channel
 
