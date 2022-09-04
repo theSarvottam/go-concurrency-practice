@@ -36,5 +36,6 @@ Goroutines
         part of go runtimme
             M:N scheduler
             run in user space
-            
+        Work Stealing
+        
 
