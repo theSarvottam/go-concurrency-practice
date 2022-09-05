@@ -41,4 +41,7 @@ Goroutines
             Normal chanel (Unbuffer channel)
             Buffer Channel
             range over the channel
+            Channel Direction - (to increase type safty of Program)
+                Only send channel
+                Only reciece channel
 
